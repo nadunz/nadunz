@@ -1,4 +1,4 @@
-<img align=right src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width=40%>
+<img align=right src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width=45%>
 
 ### Hi there, I'm Nadun 👋
 ### Software Engineer 💻 | Freelancer <img width=20px align=center src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg">

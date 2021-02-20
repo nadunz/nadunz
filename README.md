@@ -1,8 +1,7 @@
+<img align=right src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width=40%>
+
 ### Hi there, I'm Nadun 👋
-
-----------
-
-### Software Engineer 💻 | Freelancer <img width=15px align=center src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg">
+### Software Engineer 💻 | Freelancer <img width=20px align=center src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg">
 
 [![Facebook](https://img.shields.io/badge/-Facebook-087ae9?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/nadun.priyankara.589)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nadunad/)
@@ -10,6 +9,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c5221e?style=flat&logo=Gmail&logoColor=white)](mailto:nadunp94@gmail.com)
 
 
+----------
 
 - 🔭 I’m currently working at [Calecy Technologies](https://www.calcey.com/)
 - 🎓 I studied Computer Engineering at University of Peradeniya

@@ -1,8 +1,13 @@
-### Hi there, I'm Nadun 👋 
+### Hi there, I'm Nadun 👋
+
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadunz&layout=compact)
 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+----------
+
+<p>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
@@ -24,6 +29,6 @@
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
 
-  <img src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg">
-
+  <!-- <img src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg"> -->
+</p>
 

@@ -1,16 +1,24 @@
 ### Hi there, I'm Nadun 👋
 ----------
 
-### Software Engineer | Freelance 
+### Software Engineer 💻 | Freelance 
+
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/nadun.priyankara.589)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nadunad/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_nadunadikari/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nadunp94@gmail.com)
+
 
 - 🔭 I’m currently working at [Calecy Technologies](https://www.calcey.com/)
-- 🌱 I’m currently learning new tech world
-- 💜 Interests: 
+- 🎓 I studied Computer Engineering at University of Peradeniya
+- 🌱 I’m currently learning NEW
+- 💜 Interests: Full-Stack
 - 💬 Ping me about **C#**, **Java**, **Node JS**, **ReactJs** 
 - 📫 Reach me on nadunad@eng.pdn.ac.lk
-- ⚡ Fun fact:
+- ⚡ Fun fact: 
 
 ----------
+
 <p>
   <img width=4% src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img width=4% height="50px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
